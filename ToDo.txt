@@ -1,0 +1,2 @@
+toString cho thằng tên sản phẩm
+nút đăng ký
